@@ -9,4 +9,9 @@ const numeroString = "456a";
 // String()
 console.log(numero1 + Number(numeroString))
 
+//  outra forma de fazer;
+let altura1 = "5";
+let width1 = "7";
+console.log(+ altura1 * + width1)
+
 // conversão explicíta
